@@ -1,0 +1,14 @@
+a-
+La commande "git fetch" récupére toutes les branches du référentiel distant, mais ne fusionne pas automatiquement ces modifications avec votre référentiel
+par contre la commande "git pull" récupère également totes les modifications du référentiel distant, mais elle fusionne automatiquement ces modification avec votre référentiel local.
+
+b-
+Exécuter la commande "git status" pour verifier les modification non validés dans le referentiel local
+ou exécuter la commande "git chechout" pour annuler toutes les modifications
+exécuter la commande "git status" à nouveau pour verifier que toutes les modifications 
+
+c-
+Ouvrir le terminal et se placer dans le répertoire de la référence git
+taper "git branch -r" pour afficher la liste des branches distantes
+taper "git push origin --delete <om_de_la_branche>
+taper "git branch -r"
